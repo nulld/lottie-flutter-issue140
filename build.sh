@@ -1,0 +1,1 @@
+flutter build web --web-renderer canvaskit --dart-define=FLUTTER_WEB_USE_SKIA=true --release
